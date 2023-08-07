@@ -8,7 +8,7 @@
   
 
 - ❓ Задавайте любые вопросы, рад буду ответить  
-  
+  https://www.codewars.com/users/DaniilSiamenko/badges/micro
 
 - ⚡ Fun fact: I use tabs over spaces 
 
